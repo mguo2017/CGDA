@@ -1,2 +1,2 @@
 # GGYY3C
-cancer genomic data review from GGYY at CCC
+genetical genomics from Yum You
