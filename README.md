@@ -1,2 +1,2 @@
-# GGYY3C
+# CGDA
 genetical genomics from Yum You
